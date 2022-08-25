@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-  width: 350px;
+  width: 450px;
   background-color: white;
   color: var(--desaturated-blue);
   border-radius: 12px;
